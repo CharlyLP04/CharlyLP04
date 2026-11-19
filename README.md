@@ -6,7 +6,8 @@
   </p>
   <p>
     <a href="https://www.gridmx.net/"><img src="https://img.shields.io/badge/Portafolio_&_Agencia-gridmx.net-1D4ED8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Grid.mx" /></a>
-    <a href="https://www.instagram.com/charly_olagtz/"><img src="https://img.shields.io/badge/Instagram-@charly__olagtz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.instagram.com/gridmx_/"><img src="https://img.shields.io/badge/IG_Grid.mx-@gridmx__-0F172A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Grid.mx" /></a>
+    <a href="https://www.instagram.com/charly_olagtz/"><img src="https://img.shields.io/badge/IG_Personal-@charly__olagtz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Personal" /></a>
     <a href="mailto:col2804040204@gmail.com"><img src="https://img.shields.io/badge/Contacto-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://wa.me/522382032306"><img src="https://img.shields.io/badge/WhatsApp-238_203_2306-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   </p>
